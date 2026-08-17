@@ -7984,5 +7984,24 @@
       "k12-learning",
       "study-tools"
     ]
+  },
+  {
+    "id": "461",
+    "name": "Agent QA",
+    "slug": "agent-qa",
+    "description": "Natural-language QA for web and mobile apps via CLI and MCP; the FSL source-available package is free, while model/browser/device providers may charge.",
+    "website": "https://github.com/vostride/agent-qa",
+    "pricing": "FREE",
+    "featured": false,
+    "verified": false,
+    "apiAvailable": false,
+    "categorySlug": "automation",
+    "tags": [
+      "software-testing",
+      "qa",
+      "web",
+      "mobile",
+      "mcp"
+    ]
   }
 ]
